@@ -1,0 +1,17 @@
+{
+  "name": "penghu_server",
+  "version": "1.0.0",
+  "description": "penghu_server",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "connect": "^3.6.5",
+    "mysql": "^2.15.0",
+    "serve-static": "^1.13.1",
+    "socket.io": "^2.0.4"
+  }
+}
